@@ -172,7 +172,7 @@ saida_esperada:
     O programa solicita notas, valida entradas, calcula a média e informa o resultado final.
 
 
-# 🧠 Aula 04 - Persona e Geração de Tarefa 01
+# 🧠 Aula 04 - Persona e Geração de Texto tarefa 01
 
 ## 🔹 Tema escolhido: O que é um banco de dados?
 
@@ -199,5 +199,3 @@ Em arquiteturas modernas, bancos de dados são essenciais para suportar aplicaç
 O texto do arquiteto de sistemas é mais tecnicamente preciso, pois utiliza conceitos como integridade, consistência, escalabilidade e tipos de banco de dados. Ele descreve o funcionamento real dentro de um contexto de engenharia de software.
 
 Já o texto do pirata utiliza analogias que facilitam o entendimento, mas simplifica o conceito e não aborda detalhes técnicos importantes.
-```
-
