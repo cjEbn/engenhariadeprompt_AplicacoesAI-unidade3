@@ -171,7 +171,7 @@ saida_esperada:
   explicacao: |
     O programa solicita notas, valida entradas, calcula a média e informa o resultado final.
 
-
+---
 # Aula 04 - Persona e Geração de Texto tarefa 01
 
 ## 🔹 Tema escolhido: O que é um banco de dados?
