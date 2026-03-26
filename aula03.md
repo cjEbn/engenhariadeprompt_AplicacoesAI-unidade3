@@ -7,7 +7,7 @@ Quantidade de tokens: [17]
 
 Observação:
 A análise mostrou que o texto é dividido em vários tokens menores, e não em palavras completas. Algumas palavras são fragmentadas em partes, o que demonstra que a IA processa pedaços de texto. Isso influencia diretamente na interpretação e na resposta gerada.
-https://github.com/cjEbn/engenharia-de-prompt-fundamentos/commit/7de5d0fe58ac45df67e9d4c3f9cb97f56003bc09
+atividade-imagem-1.png
 
 ## 🔹 Etapa 2 - Teste de Previsibilidade
 
@@ -22,4 +22,4 @@ As respostas ficaram mais variadas e menos previsíveis, incluindo possibilidade
 
 Modo técnico:
 As respostas foram mais diretas e baseadas em probabilidade e contexto lógico, sem variações criativas.
-https://github.com/cjEbn/engenharia-de-prompt-fundamentos/commit/7de5d0fe58ac45df67e9d4c3f9cb97f56003bc09
+atividade-imagem-3.png
