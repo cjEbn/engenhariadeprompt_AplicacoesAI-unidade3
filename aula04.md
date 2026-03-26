@@ -282,4 +282,4 @@ Isso reduz ambiguidades e direciona a resposta para um padrão mais profissional
 
 Clique abaixo para visualizar ou baixar o documento completo:
 
-👉[Baixar Aula 04 (PDF)](./aula04.pdf)
+[Baixar PDF da Aula 04](./aula04.pdf)
