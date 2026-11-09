@@ -1,74 +1,39 @@
-# Hi there 👋
+# Aplicações de IA — atividades da unidade 3
 
-Welcome to my GitHub profile! I'm a passionate developer committed to building meaningful software and contributing to the open-source community.
+Repositório acadêmico com materiais e exercícios de uma unidade sobre engenharia de prompts e aplicações de IA. Os arquivos incluem notebooks Jupyter, documentos Markdown, PDFs e imagens usados nas atividades.
 
-## 🚀 About Me
+## Conteúdo
 
-I'm driven by the challenge of solving complex problems and creating elegant solutions. With a focus on clean code and user-centric design, I strive to build software that makes a difference.
+- Notebooks de exercícios com exemplos introdutórios de Python, como calculadora, jogo da forca, automação de arquivos e consulta simples a APIs.
+- Materiais de aula e registros em Markdown e PDF.
+- Imagens associadas a atividades existentes.
 
-## 💻 Skills & Technologies
+Consulte os arquivos individuais para identificar o objetivo, as instruções e os requisitos específicos de cada exercício. O conjunto é material de estudo, não uma aplicação de IA pronta para produção.
 
-- **Languages**: [Add your languages]
-- **Frontend**: [Add frontend technologies]
-- **Backend**: [Add backend technologies]
-- **Tools & Platforms**: [Add tools]
-- **Other**: [Add other relevant skills]
+## Tecnologias e formatos
 
-## 🎯 What I'm Currently Working On
+- Python em notebooks Jupyter.
+- Jupyter Notebook (`.ipynb`).
+- Markdown e PDF.
 
-- [Project or focus area 1]
-- [Project or focus area 2]
-- [Project or focus area 3]
+Os arquivos disponíveis não comprovam o uso de frameworks ou serviços específicos em todos os exercícios; verifique cada notebook antes de instalar dependências.
 
-## 📚 Featured Projects
+## Como consultar e executar
 
-### [Project Name 1](https://github.com/cjEbn/project-name-1)
-Brief description of what this project does and why it's interesting.
+1. Clone ou baixe o repositório.
+2. Abra os arquivos Markdown e PDFs diretamente, ou inicie Jupyter Notebook/JupyterLab em um ambiente com Python para abrir os `.ipynb`.
+3. Leia as células e instruções de cada notebook antes de executá-lo. Alguns exercícios podem depender de acesso à internet ou de configuração adicional, conforme indicado no próprio arquivo.
 
-### [Project Name 2](https://github.com/cjEbn/project-name-2)
-Brief description of what this project does and why it's interesting.
+Não há um comando único de execução para todo o repositório.
 
-### [Project Name 3](https://github.com/cjEbn/project-name-3)
-Brief description of what this project does and why it's interesting.
+## Demonstração
 
-## 📈 GitHub Stats
+Os notebooks existentes e as imagens versionadas são os materiais de demonstração disponíveis. Não foram criadas capturas adicionais.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cjEbn&show_icons=true&theme=dark)
+## Licença
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cjEbn&layout=compact&theme=dark)
+Nenhum arquivo de licença foi identificado. Por se tratar de materiais acadêmicos com imagens e conteúdos de origem possivelmente diversa, uma licença deve ser definida após confirmar os direitos de todos os materiais.
 
-## 🌱 Learning & Growth
+## Tópicos sugeridos
 
-- Currently learning: [What you're studying]
-- Interested in: [Topics of interest]
-- Open to: [Collaboration, mentorship, etc.]
-
-## 🤝 Let's Connect
-
-I'm always interested in collaborating on interesting projects or discussing ideas. Feel free to reach out!
-
-- **Email**: [your-email@example.com]
-- **LinkedIn**: [Your LinkedIn URL]
-- **Twitter**: [@YourHandle]
-- **Portfolio**: [Your portfolio URL]
-- **Blog**: [Your blog URL]
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Blog Post Title 1](#)
-- [Blog Post Title 2](#)
-- [Blog Post Title 3](#)
-<!-- BLOG-POST-LIST:END -->
-
-## ⭐ How to Support
-
-If you find my work helpful:
-- Star ⭐ repositories you like
-- Share projects with your network
-- Open issues or contribute to improvements
-- Follow for updates
-
----
-
-*Last updated: 2026-04-24*
+`python`, `jupyter-notebook`, `engenharia-de-prompts`, `inteligencia-artificial`, `projeto-academico`, `aprendizado`
